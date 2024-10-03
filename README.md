@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a college freshman!
+- ⚡ Fun fact: I'm studing Computer Science at UIC!
 
 <!---
 KahnishgaSolaidurairaj/KahnishgaSolaidurairaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
