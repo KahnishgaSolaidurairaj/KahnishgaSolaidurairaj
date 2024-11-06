@@ -10,6 +10,8 @@ I like to also learn new coding languages and master them. Currently I am mainly
 
 I'm currently a freshman majoring in Computer Science at UIC.
 
+My other hobbies include crocheting, dancing, watching tv shows, baking cakes, and doing reserach on intresting and random topics. 
+
 <!---
 KahnishgaSolaidurairaj/KahnishgaSolaidurairaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
