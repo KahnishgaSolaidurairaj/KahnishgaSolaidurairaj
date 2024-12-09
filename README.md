@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KahnishgaSolaidurairaj
-- 👀 I’m interested in learning new concepts and making fun projects
+- 👀 I’m interested in learning new concepts and coding fun projects
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: she/her
