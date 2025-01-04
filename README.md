@@ -8,7 +8,7 @@
 I mostly code projects with my computer science courses but when I have enought free time I like to pick up my own projects and improve previos ones ;) 
 I like to also learn new coding languages and master them. Currently I am mainly coding in C++
 
-My other hobbies include crocheting, dancing, watching tv shows, baking, and yapping ;) 
+My other hobbies include crocheting, dancing, watching tv shows, and baking ;) 
 
 <!---
 KahnishgaSolaidurairaj/KahnishgaSolaidurairaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
