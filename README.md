@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a freshman studing Computer Science at University of Illinois at Chicago! 
+- ⚡ I'm a freshman studing Computer Science at University of Illinois at Chicago! 
 
 I mostly code projects with my computer science courses but when I have enought free time I like to pick up my own projects and improve previos ones ;) 
 I like to also learn new coding languages and master them. Currently I am mainly coding in C++
