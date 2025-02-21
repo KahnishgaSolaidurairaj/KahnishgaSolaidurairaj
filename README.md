@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @KahnishgaSolaidurairaj
+Hello, my name is Kahnishga Solaidurairaj, and I am a first-year Computer Science undergraduate at University of Illinois at Chicago. From a young age, I have been drawn to creativity—whether through art, design, or problem-solving—which led me to programming. I love building, experimenting, and pushing my limits through code, always looking for new challenges to expand my skills. 
+
 - 👀 I’m interested in learning new concepts and coding fun projects
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on personal projects
-- 😄 Pronouns: she/her
-- ⚡ I'm a freshman studing Computer Science at University of Illinois at Chicago! 
 
 I mostly code projects with my computer science courses but when I have enought free time I like to pick up my own projects and improve previos ones ;) 
-I like to also learn new coding languages and master them. Currently I am mainly coding in C++
-
 My other hobbies include crocheting, dancing, watching tv shows, and baking ;) 
 
 <!---
