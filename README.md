@@ -4,7 +4,7 @@ Hello, my name is Kahnishga Solaidurairaj, and I am a first-year Computer Scienc
 - 🌱 I’m currently learning C++
 
 I mostly code projects with my computer science courses but when I have enought free time I like to pick up my own projects and improve previos ones ;) 
-My other hobbies include crocheting, dancing, watching tv shows, and baking ;) 
+My other hobbies include crocheting, dancing, watching tv shows, and baking.
 
 <!---
 KahnishgaSolaidurairaj/KahnishgaSolaidurairaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
