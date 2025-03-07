@@ -1,4 +1,4 @@
-Hello, my name is Kahnishga Solaidurairaj, and I am a first-year Computer Science undergraduate at University of Illinois at Chicago. From a young age, I have been drawn to creativity—whether through art, design, or problem-solving—which led me to programming. I love building, experimenting, and pushing my limits through code, always looking for new challenges to expand my skills. 
+Hello, my name is Kahnishga Solaidurairaj, and I am a first-year Computer Science undergraduate at University of Illinois at Chicago. From a young age, I have been drawn to creativity—whether through art, design, or problem-solving—which led me to programming. I love building, experimenting, and pushing my limits through code, always looking for new challenges to expand my skills!!
 
 - 👀 I’m interested in learning new concepts and coding fun projects
 - 🌱 I’m currently learning C++
