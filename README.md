@@ -3,7 +3,7 @@ Hello, my name is Kahnishga Solaidurairaj, and I am a first-year Computer Scienc
 - 👀 I’m interested in learning new concepts and coding fun projects
 - 🌱 I’m currently learning C++
 
-I mostly code projects with my computer science courses but when I have enought free time I like to pick up my own projects and improve previos ones ;) 
+I mostly code projects with my computer science courses but when I have enough free time I like to pick up my own projects and improve previous ones ;) 
 My other hobbies include crocheting, dancing, watching tv shows, and baking.
 
 <!---
