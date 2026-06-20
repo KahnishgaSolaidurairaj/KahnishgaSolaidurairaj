@@ -3,6 +3,8 @@ Hello, my name is Kahnishga Solaidurairaj, and I am a third-year Computer Scienc
 - 👀 I’m interested in learning new concepts and coding fun projects
 - 🌱 I’m currently learning C++
 
+Check out my Personal Website: https://kahnishgasolaidurairaj.github.io/Portfolio/ 
+
 I mostly code projects with my computer science courses but when I have enough free time I like to pick up my own projects and improve previous ones ;) 
 My other hobbies include crocheting, watching tv shows, and baking.
 
